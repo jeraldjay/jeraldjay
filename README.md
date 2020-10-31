@@ -48,5 +48,5 @@
 
 </details>
 
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
+[instagram]: https://instagram.com/jerald_jay
+[linkedin]: https://linkedin.com/in/jerald-jay-a85096192
