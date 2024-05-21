@@ -2,7 +2,10 @@
 
 
 
-## I'm a Entrepreneur, Motivational Speaker , Developer, and Teacher!!
+
+Just use standard HTML comments:
+
+<!--  ## I'm a Entrepreneur, Motivational Speaker , Developer, and Teacher!! -->
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
